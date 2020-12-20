@@ -22,3 +22,9 @@ Modules can be either:
 
 - - json |E.g. function: **json.load**
     > json.load() takes a file object and returns the json object. A JSON object contains data in the form of key/value pair. The keys are strings and the values are the JSON type
+
+## How to run
+- Use terminal **cmd** or **bash**
+- To run a Python script, we have to write ‘python’ keyword before the file name in the command prompt.
+- - E.g python app.py
+> Make sure you are in the right directory 
